@@ -1,0 +1,15 @@
+{
+  "appsFlyerDevKey": "123",
+  "appleAppID": "123",
+  "oneSignalAppID": "123",
+  "environment": "Development",
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-16T21:01:16Z",
+  "features": {
+    "pushNotificationsEnabled": true,
+    "analyticsEnabled": true,
+    "privacyPolicyRequired": true,
+    "webViewEnabled": true,
+    "debugLogsEnabled": true
+  }
+}
