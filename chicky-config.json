@@ -10,7 +10,7 @@
     "analyticsEnabled": true,
     "privacyPolicyRequired": true,
     "webViewEnabled": true,
-    "showPrivacy": false,
     "debugLogsEnabled": true
-  }
+  },
+      "showPrivacy": false
 }
