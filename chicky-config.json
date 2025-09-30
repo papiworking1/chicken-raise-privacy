@@ -11,5 +11,6 @@
     "privacyPolicyRequired": true,
     "webViewEnabled": true,
     "debugLogsEnabled": true
-  }
+  },
+  "showPrivacy": true
 }
