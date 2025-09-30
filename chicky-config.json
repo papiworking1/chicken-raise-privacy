@@ -12,5 +12,5 @@
     "webViewEnabled": true,
     "debugLogsEnabled": true
   },
-  "showPrivacy": true
+  "showPrivacy": false
 }
