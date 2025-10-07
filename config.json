@@ -13,6 +13,6 @@
     "debugLogsEnabled": true
   },
       "showPrivacy": false
-      "webview_url": "https://your-privacy-policy-url.com"
+      "privacy_url": "https://your-privacy-policy-url.com"
 
 }
