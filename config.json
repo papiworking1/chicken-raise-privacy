@@ -1,0 +1,16 @@
+{
+  "appsFlyerDevKey": "guddan",
+  "appleAppID": "1233",
+  "oneSignalAppID": "1323",
+  "environment": "Development",
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-16T21:01:16Z",
+  "features": {
+    "pushNotificationsEnabled": true,
+    "analyticsEnabled": true,
+    "privacyPolicyRequired": true,
+    "webViewEnabled": true,
+    "debugLogsEnabled": true
+  },
+      "showPrivacy": false
+}
